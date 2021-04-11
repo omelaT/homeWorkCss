@@ -1,6 +1,7 @@
 #slider {
     position: relative;
 	width: 100%;
+	background-color: #DDA0DD;
 }
 
 #tooplate_wrapper {
@@ -35,6 +36,7 @@
 	width: 200px;
 	height: 227px;
 	padding: 20px;
+
 	background: url(../images/tooplate_menu.png) no-repeat
 }
 
@@ -49,6 +51,7 @@
 	margin-bottom: 20px;
 	padding-bottom: 20px;
 	border-bottom: 1px dashed #666
+
 }
 
 .last_section {
@@ -62,11 +65,14 @@
 	width: 840px;
 	padding: 0 0 30px;
 	margin: 0 auto;
-	text-align: right
+	text-align: right;
+	background-color: #DDA0DD;
+
 }
 
 #footer a {
 	color: #000;
+	background-color: #DDA0DD;
 }
 
 #social_box {

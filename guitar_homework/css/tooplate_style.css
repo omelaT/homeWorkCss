@@ -14,9 +14,11 @@ body {
 	font-size: 14px;
 	line-height: 1.5em; 
 	background-color: #b0dfea;
-	background-image: url(../images/tooplate_body.jpg);
+	/*background-image: url(../images/tooplate_body.jpg);*/
 	background-repeat: no-repeat;
 	background-position: center top;
+	background-color: #DDA0DD;
+
 }
 
 a, a:link, a:visited { 
@@ -81,7 +83,7 @@ blockquote {
 
 cite { 
 	font-weight: bold; 
-	color:#333; 
+	color:#333;
 }
 
 cite span { 
